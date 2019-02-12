@@ -1,7 +1,0 @@
-C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O3\O3\bin\Debug\O3.exe.config
-C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O3\O3\bin\Debug\O3.exe
-C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O3\O3\bin\Debug\O3.pdb
-C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O3\O3\obj\Debug\O3.csprojAssemblyReference.cache
-C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O3\O3\obj\Debug\O3.csproj.CoreCompileInputs.cache
-C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O3\O3\obj\Debug\O3.exe
-C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O3\O3\obj\Debug\O3.pdb
