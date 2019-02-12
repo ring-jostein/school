@@ -1,0 +1,6 @@
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O2\O2\bin\Debug\O2.exe.config
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O2\O2\bin\Debug\O2.exe
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O2\O2\bin\Debug\O2.pdb
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O2\O2\obj\Debug\O2.csproj.CoreCompileInputs.cache
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O2\O2\obj\Debug\O2.exe
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O2\O2\obj\Debug\O2.pdb

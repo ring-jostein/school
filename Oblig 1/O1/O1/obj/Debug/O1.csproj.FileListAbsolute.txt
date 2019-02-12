@@ -1,0 +1,10 @@
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O1\O1\bin\Debug\O1.exe.config
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O1\O1\bin\Debug\O1.exe
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O1\O1\bin\Debug\O1.pdb
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O1\O1\obj\Debug\O1.csprojAssemblyReference.cache
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O1\O1\obj\Debug\O1.Form1.resources
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O1\O1\obj\Debug\O1.Properties.Resources.resources
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O1\O1\obj\Debug\O1.csproj.GenerateResource.cache
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O1\O1\obj\Debug\O1.csproj.CoreCompileInputs.cache
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O1\O1\obj\Debug\O1.exe
+C:\Users\ringj\OneDrive\Skoledokumenter\ELE102\Oblig\Oblig 1\O1\O1\obj\Debug\O1.pdb
