@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O1", "O1\O1.csproj", "{820F94D0-DC73-4FA9-A70C-5BA10EA644F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9257D74F-A1AD-49CA-AB7A-1F0A357C8363}"
+	ProjectSection(SolutionItems) = preProject
+		O1\Rektangel.cs = O1\Rektangel.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820F94D0-DC73-4FA9-A70C-5BA10EA644F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820F94D0-DC73-4FA9-A70C-5BA10EA644F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820F94D0-DC73-4FA9-A70C-5BA10EA644F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820F94D0-DC73-4FA9-A70C-5BA10EA644F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DAE0270-2B2A-4073-B8D9-FEA5E46353D7}
+	EndGlobalSection
+EndGlobal
